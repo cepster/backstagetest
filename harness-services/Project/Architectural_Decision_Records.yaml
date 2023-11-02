@@ -1,0 +1,11 @@
+kind: System
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: Architectural_Decision_Records
+  title: Architectural Decision Records
+  description: ""
+  tags: []
+spec:
+  owner: Unknown
+  domain: Tech_Foundations
+

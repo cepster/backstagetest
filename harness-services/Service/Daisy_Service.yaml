@@ -1,0 +1,17 @@
+kind: Component
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: Daisy_Service
+  title: Daisy Service
+  tags: []
+  annotations:
+    harness.io/project-url: https://app.harness.io/ng/account/AdAW8A4QTgq3YOM_suuuEQ/home/orgs/Teaching_and_Learning/projects/Daisy/details
+    harness.io/cd-serviceId: Daisy_Service
+    harness.io/services: |
+      Daisy_Service: https://app.harness.io/ng/account/AdAW8A4QTgq3YOM_suuuEQ/cd/orgs/Teaching_and_Learning/projects/Daisy/services/Daisy_Service
+spec:
+  type: Service
+  lifecycle: Unknown
+  owner: Unknown
+  system: Daisy
+

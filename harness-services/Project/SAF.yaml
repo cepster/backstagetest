@@ -1,0 +1,11 @@
+kind: System
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: SAF
+  title: Site Automation Framework
+  description: ""
+  tags: []
+spec:
+  owner: Unknown
+  domain: Delivery_Automation
+

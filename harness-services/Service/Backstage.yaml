@@ -1,0 +1,17 @@
+kind: Component
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: Backstage
+  title: Backstage
+  tags: []
+  annotations:
+    harness.io/project-url: https://app.harness.io/ng/account/AdAW8A4QTgq3YOM_suuuEQ/home/orgs/Delivery_Automation/projects/Backstage/details
+    harness.io/cd-serviceId: Backstage
+    harness.io/services: |
+      Backstage: https://app.harness.io/ng/account/AdAW8A4QTgq3YOM_suuuEQ/cd/orgs/Delivery_Automation/projects/Backstage/services/Backstage
+spec:
+  type: Service
+  lifecycle: Unknown
+  owner: Unknown
+  system: Backstage
+

@@ -1,0 +1,17 @@
+kind: Component
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: updatesproxy
+  title: updates-proxy
+  tags: []
+  annotations:
+    harness.io/project-url: https://app.harness.io/ng/account/AdAW8A4QTgq3YOM_suuuEQ/home/orgs/Managed_Services/projects/Updates_Proxy/details
+    harness.io/cd-serviceId: updatesproxy
+    harness.io/services: |
+      updatesproxy: https://app.harness.io/ng/account/AdAW8A4QTgq3YOM_suuuEQ/cd/orgs/Managed_Services/projects/Updates_Proxy/services/updatesproxy
+spec:
+  type: Service
+  lifecycle: Unknown
+  owner: Unknown
+  system: Updates_Proxy
+

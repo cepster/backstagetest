@@ -1,0 +1,17 @@
+kind: Component
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: ADR_Viewer_Helm
+  title: ADR Viewer Helm
+  tags: []
+  annotations:
+    harness.io/project-url: https://app.harness.io/ng/account/AdAW8A4QTgq3YOM_suuuEQ/home/orgs/Tech_Foundations/projects/Architectural_Decision_Records/details
+    harness.io/cd-serviceId: ADR_Viewer_Helm
+    harness.io/services: |
+      ADR_Viewer_Helm: https://app.harness.io/ng/account/AdAW8A4QTgq3YOM_suuuEQ/cd/orgs/Tech_Foundations/projects/Architectural_Decision_Records/services/ADR_Viewer_Helm
+spec:
+  type: Service
+  lifecycle: Unknown
+  owner: Unknown
+  system: Architectural_Decision_Records
+

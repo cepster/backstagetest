@@ -1,0 +1,17 @@
+kind: Component
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: stepca
+  title: stepca
+  tags: []
+  annotations:
+    harness.io/project-url: https://app.harness.io/ng/account/AdAW8A4QTgq3YOM_suuuEQ/home/orgs/Tech_Foundations/projects/PKI/details
+    harness.io/cd-serviceId: stepca
+    harness.io/services: |
+      stepca: https://app.harness.io/ng/account/AdAW8A4QTgq3YOM_suuuEQ/cd/orgs/Tech_Foundations/projects/PKI/services/stepca
+spec:
+  type: Service
+  lifecycle: Unknown
+  owner: Unknown
+  system: PKI
+

@@ -1,0 +1,17 @@
+kind: Component
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: Product_Update_Request
+  title: Product Update Request
+  tags: []
+  annotations:
+    harness.io/project-url: https://app.harness.io/ng/account/AdAW8A4QTgq3YOM_suuuEQ/home/orgs/Delivery_Automation/projects/Product_Update_Request/details
+    harness.io/cd-serviceId: Product_Update_Request
+    harness.io/services: |
+      Product_Update_Request: https://app.harness.io/ng/account/AdAW8A4QTgq3YOM_suuuEQ/cd/orgs/Delivery_Automation/projects/Product_Update_Request/services/Product_Update_Request
+spec:
+  type: Service
+  lifecycle: Unknown
+  owner: Unknown
+  system: Product_Update_Request
+

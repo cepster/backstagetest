@@ -1,0 +1,10 @@
+kind: Domain
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: Managed_Services
+  title: Managed Services
+  description: ""
+  tags: []
+spec:
+  owner: Unknown
+

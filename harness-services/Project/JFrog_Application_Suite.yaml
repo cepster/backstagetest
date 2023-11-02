@@ -1,0 +1,11 @@
+kind: System
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: JFrog_Application_Suite
+  title: JFrog Application Suite
+  description: ""
+  tags: []
+spec:
+  owner: Unknown
+  domain: Delivery_Automation
+

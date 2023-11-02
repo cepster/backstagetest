@@ -1,0 +1,17 @@
+kind: Component
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: Design_System_K8s
+  title: Design System K8s
+  tags: []
+  annotations:
+    harness.io/project-url: https://app.harness.io/ng/account/AdAW8A4QTgq3YOM_suuuEQ/home/orgs/Tech_Foundations/projects/UI_Design_System/details
+    harness.io/cd-serviceId: Design_System_K8s
+    harness.io/services: |
+      Design_System_K8s: https://app.harness.io/ng/account/AdAW8A4QTgq3YOM_suuuEQ/cd/orgs/Tech_Foundations/projects/UI_Design_System/services/Design_System_K8s
+spec:
+  type: Service
+  lifecycle: Unknown
+  owner: Unknown
+  system: UI_Design_System
+

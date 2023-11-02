@@ -1,0 +1,10 @@
+kind: Domain
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: Tech_Foundations
+  title: Tech Foundations
+  description: ""
+  tags: []
+spec:
+  owner: Unknown
+

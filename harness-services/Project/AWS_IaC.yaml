@@ -1,0 +1,12 @@
+kind: System
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: AWS_IaC
+  title: AWS IaC
+  description: Harness Project that encompasses the Infrastructure as Code workflows
+    to deploy and manage resources in AWS
+  tags: []
+spec:
+  owner: Unknown
+  domain: Tech_Foundations
+

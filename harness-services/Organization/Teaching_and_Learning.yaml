@@ -1,0 +1,10 @@
+kind: Domain
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: Teaching_and_Learning
+  title: Teaching and Learning
+  description: ""
+  tags: []
+spec:
+  owner: Unknown
+

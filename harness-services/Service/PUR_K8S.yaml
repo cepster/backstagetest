@@ -1,0 +1,17 @@
+kind: Component
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: PUR_K8S
+  title: PUR K8S
+  tags: []
+  annotations:
+    harness.io/project-url: https://app.harness.io/ng/account/AdAW8A4QTgq3YOM_suuuEQ/home/orgs/Delivery_Automation/projects/Product_Update_Request/details
+    harness.io/cd-serviceId: PUR_K8S
+    harness.io/services: |
+      PUR_K8S: https://app.harness.io/ng/account/AdAW8A4QTgq3YOM_suuuEQ/cd/orgs/Delivery_Automation/projects/Product_Update_Request/services/PUR_K8S
+spec:
+  type: Service
+  lifecycle: Unknown
+  owner: Unknown
+  system: Product_Update_Request
+

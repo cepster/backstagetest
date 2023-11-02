@@ -1,0 +1,11 @@
+kind: System
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: UI_Design_System
+  title: UI Design System
+  description: ""
+  tags: []
+spec:
+  owner: Unknown
+  domain: Tech_Foundations
+

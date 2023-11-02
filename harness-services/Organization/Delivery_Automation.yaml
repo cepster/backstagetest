@@ -1,0 +1,10 @@
+kind: Domain
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: Delivery_Automation
+  title: Delivery Automation
+  description: ""
+  tags: []
+spec:
+  owner: Unknown
+

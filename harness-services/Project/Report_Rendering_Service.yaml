@@ -1,0 +1,11 @@
+kind: System
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: Report_Rendering_Service
+  title: Report Rendering Service
+  description: ""
+  tags: []
+spec:
+  owner: Unknown
+  domain: Tech_Foundations
+
